@@ -1,0 +1,22 @@
+C:\C#\Pussel\Pussel\bin\Debug\Pussel.exe.config
+C:\C#\Pussel\Pussel\bin\Debug\Pussel.exe
+C:\C#\Pussel\Pussel\bin\Debug\Pussel.pdb
+C:\C#\Pussel\Pussel\obj\Debug\Pussel.csproj.AssemblyReference.cache
+C:\C#\Pussel\Pussel\obj\Debug\Pussel.csproj.SuggestedBindingRedirects.cache
+C:\C#\Pussel\Pussel\obj\Debug\Pussel.Form1.resources
+C:\C#\Pussel\Pussel\obj\Debug\Pussel.Properties.Resources.resources
+C:\C#\Pussel\Pussel\obj\Debug\Pussel.csproj.GenerateResource.cache
+C:\C#\Pussel\Pussel\obj\Debug\Pussel.csproj.CoreCompileInputs.cache
+C:\C#\Pussel\Pussel\obj\Debug\Pussel.exe
+C:\C#\Pussel\Pussel\obj\Debug\Pussel.pdb
+C:\Visual Studio Projects\Pussel\Pussel\Pussel\bin\Debug\Pussel.exe.config
+C:\Visual Studio Projects\Pussel\Pussel\Pussel\bin\Debug\Pussel.exe
+C:\Visual Studio Projects\Pussel\Pussel\Pussel\bin\Debug\Pussel.pdb
+C:\Visual Studio Projects\Pussel\Pussel\Pussel\obj\Debug\Pussel.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\Pussel\Pussel\Pussel\obj\Debug\Pussel.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Projects\Pussel\Pussel\Pussel\obj\Debug\Pussel.Form1.resources
+C:\Visual Studio Projects\Pussel\Pussel\Pussel\obj\Debug\Pussel.Properties.Resources.resources
+C:\Visual Studio Projects\Pussel\Pussel\Pussel\obj\Debug\Pussel.csproj.GenerateResource.cache
+C:\Visual Studio Projects\Pussel\Pussel\Pussel\obj\Debug\Pussel.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Pussel\Pussel\Pussel\obj\Debug\Pussel.exe
+C:\Visual Studio Projects\Pussel\Pussel\Pussel\obj\Debug\Pussel.pdb
